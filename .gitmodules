@@ -1,0 +1,6 @@
+[submodule "mylog-browser"]
+	path = mylog-browser
+	url = https://github.com/gratisreise/mylog-browser.git
+[submodule "mylog-server"]
+	path = mylog-server
+	url = https://github.com/gratisreise/mylog-server.git
